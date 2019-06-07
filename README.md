@@ -1,4 +1,4 @@
-#Libft Project
+# Libft Project
 
 Libft is the first project in 42 school curriculum, in this project we re-write some highly useful c functions.
 
